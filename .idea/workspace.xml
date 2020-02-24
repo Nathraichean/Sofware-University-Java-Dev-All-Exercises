@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="92252c80-1cde-48bf-85d0-5d840c32f43b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Fundamentals/5. Lists/Lab/6. List of Products/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Fundamentals/5. Lists/Lab/6. List of Products/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Fundamentals/5. Lists/Lab/7. Remove Negatives and Reverse/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Fundamentals/5. Lists/Lab/7. Remove Negatives and Reverse/src/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,17 +77,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (5)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="6. List of Products" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="2. Gauss' Trick" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -102,6 +95,13 @@
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="1. Sum Adjacent Equal Numbers" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="7. Remove Negatives and Reverse" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -125,18 +125,18 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (4)" />
-      <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (6)" />
       <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (5)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (6)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +177,7 @@
       <workItem from="1581974960430" duration="15000" />
       <workItem from="1582107172334" duration="2564000" />
       <workItem from="1582115184330" duration="5109000" />
-      <workItem from="1582559118092" duration="3394000" />
+      <workItem from="1582559118092" duration="3905000" />
     </task>
     <servers />
   </component>

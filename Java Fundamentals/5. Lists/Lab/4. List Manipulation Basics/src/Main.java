@@ -34,9 +34,6 @@ public class Main {
             String[] input = inputA.split(" ");
 
             if (inputA.equals("end")){
-                for (int num: numbers) {
-                    System.out.print(num + " ");
-                }
                 cycle = false;
             }
 
@@ -55,6 +52,10 @@ public class Main {
             case "Add":
                 list.add(Integer.parseInt(input[1]));
                 break;
+            case "Contains":
+                if (list.contains(Integer.parseInt(input[1])))System.out.println("Yes");
+                else System.out.println("No such number");
+                break;
             case "Remove":
                 list.remove((Object)Integer.parseInt(input[1]));
                 break;
@@ -62,10 +63,68 @@ public class Main {
                 list.remove(Integer.parseInt(input[1]));
                 break;
             case "Insert":
-
                 list.add(Integer.parseInt(input[2]), Integer.parseInt(input[1]));
                 break;
-
+            case "Print":
+                if (input[1].equals("even")){
+                    for (int num: list) {
+                        if (num%2==0){
+                            System.out.print(num + " ");
+                        }
+                    }
+                    System.out.println();
+                }
+                else {
+                    for (int num: list) {
+                        if (num%2>0){
+                            System.out.print(num + " ");
+                        }
+                    }
+                    System.out.println();
+                }
+                break;
+            case "Get":
+                if (input[1].equals("sum")){
+                    int sum = 0;
+                    for (int num : list) {
+                        sum+=num;
+                    }
+                    System.out.println(sum);
+                }
+                break;
+            case "Filter":
+                if (input[1].equals(">=")){
+                    for (int num: list) {
+                        if (num >= Integer.parseInt(input[2])){
+                            System.out.print(num + " ");
+                        }
+                    }
+                    System.out.println();
+                }
+                else if (input[1].equals("<=")){
+                    for (int num: list) {
+                        if (num <= Integer.parseInt(input[2])){
+                            System.out.print(num + " ");
+                        }
+                    }
+                    System.out.println();
+                }
+                else if (input[1].equals(">")){
+                    for (int num: list) {
+                        if (num > Integer.parseInt(input[2])){
+                            System.out.print(num + " ");
+                        }
+                    }
+                    System.out.println();
+                }
+                else if (input[1].equals("<")){
+                    for (int num: list) {
+                        if (num < Integer.parseInt(input[2])){
+                            System.out.print(num + " ");
+                        }
+                    }
+                    System.out.println();
+                }
         }
 
 

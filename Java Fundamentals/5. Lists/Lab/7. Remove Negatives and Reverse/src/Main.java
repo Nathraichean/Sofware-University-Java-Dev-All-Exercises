@@ -26,7 +26,7 @@ public class Main {
                         .collect(Collectors.toList());
 
         numbers.removeIf(n -> n<0);
-        
+
         Collections.reverse(numbers);
 
         if (numbers.isEmpty()){

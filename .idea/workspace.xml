@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92252c80-1cde-48bf-85d0-5d840c32f43b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Java Fundamentals/5. Lists/Excercise/1. Train/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java Fundamentals/5. Lists/Lab/7. Remove Negatives and Reverse/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Fundamentals/5. Lists/Lab/7. Remove Negatives and Reverse/src/Main.java" afterDir="false" />
     </list>
@@ -39,7 +40,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QMVmtaTDGqQAE7rqpgNMD3QvEQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Hangman" />
@@ -177,7 +182,7 @@
       <workItem from="1581974960430" duration="15000" />
       <workItem from="1582107172334" duration="2564000" />
       <workItem from="1582115184330" duration="5109000" />
-      <workItem from="1582559118092" duration="3905000" />
+      <workItem from="1582559118092" duration="4985000" />
     </task>
     <servers />
   </component>

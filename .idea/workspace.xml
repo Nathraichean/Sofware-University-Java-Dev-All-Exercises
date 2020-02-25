@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92252c80-1cde-48bf-85d0-5d840c32f43b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Java Fundamentals/5. Lists/Excercise/1. Train/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Fundamentals/5. Lists/Lab/7. Remove Negatives and Reverse/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Fundamentals/5. Lists/Lab/7. Remove Negatives and Reverse/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Fundamentals/5. Lists/Excercise/1. Train/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Fundamentals/5. Lists/Excercise/1. Train/src/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,19 +54,19 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Personal\Sofuni Projects\Java Fundamentals\3. Arrays" />
-      <recent name="C:\Personal\Sofuni Projects\Arrays Excercise" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Personal\laptop\Sofuni Projects\Java Fundamentals\9. Regular Expressions" />
       <recent name="C:\Personal\laptop\Sofuni Projects\Java Fundamentals\8. Text Processing" />
       <recent name="C:\Personal\laptop\Sofuni Projects\Java Fundamentals\7. Maps, Lambda and Stream API" />
       <recent name="C:\Personal\laptop\Sofuni Projects\Java Fundamentals\6. Objects and Classes" />
       <recent name="C:\Personal\Sofuni Projects\Java Fundamentals\1. Basic Syntax, Conditional Statements and Loops\Lab\1. Student Information" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Personal\Sofuni Projects\Java Fundamentals\3. Arrays" />
+      <recent name="C:\Personal\Sofuni Projects\Arrays Excercise" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -82,7 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (5)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="6. List of Products" />
@@ -90,16 +89,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="4. List Manipulation Basics" />
+      <module name="1. Train" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="1. Sum Adjacent Equal Numbers" />
+      <module name="4. List Manipulation Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -129,19 +128,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (6)" />
       <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (5)" />
+      <item itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (6)" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +181,7 @@
       <workItem from="1581974960430" duration="15000" />
       <workItem from="1582107172334" duration="2564000" />
       <workItem from="1582115184330" duration="5109000" />
-      <workItem from="1582559118092" duration="4985000" />
+      <workItem from="1582559118092" duration="7808000" />
     </task>
     <servers />
   </component>

@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="92252c80-1cde-48bf-85d0-5d840c32f43b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Fundamentals/5. Lists/Excercise/2. Change List/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Fundamentals/5. Lists/Excercise/2. Change List/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Fundamentals/5. Lists/Lab/5. List Manipulation Advanced/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Fundamentals/5. Lists/Lab/5. List Manipulation Advanced/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Fundamentals/5. Lists/Excercise/3. House Party/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Fundamentals/5. Lists/Excercise/3. House Party/src/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.Main (6)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="6. List of Products" />
@@ -93,13 +92,6 @@
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="1. Train" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="4. List Manipulation Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -118,6 +110,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (6)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="3. House Party" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -129,19 +128,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.Main (6)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (6)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +181,7 @@
       <workItem from="1581974960430" duration="15000" />
       <workItem from="1582107172334" duration="2564000" />
       <workItem from="1582115184330" duration="5109000" />
-      <workItem from="1582559118092" duration="12711000" />
+      <workItem from="1582559118092" duration="14748000" />
     </task>
     <servers />
   </component>

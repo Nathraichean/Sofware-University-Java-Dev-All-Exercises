@@ -4,10 +4,7 @@
     <option name="SCOPE_TYPE" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92252c80-1cde-48bf-85d0-5d840c32f43b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Fundamentals/5. Lists/Excercise/6. Cards Game/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Fundamentals/5. Lists/Excercise/6. Cards Game/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="92252c80-1cde-48bf-85d0-5d840c32f43b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +178,7 @@
       <workItem from="1581974960430" duration="15000" />
       <workItem from="1582107172334" duration="2564000" />
       <workItem from="1582115184330" duration="5109000" />
-      <workItem from="1582559118092" duration="31699000" />
+      <workItem from="1582559118092" duration="32481000" />
     </task>
     <servers />
   </component>

@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92252c80-1cde-48bf-85d0-5d840c32f43b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Fundamentals/5. Lists/Excercise/7. Append Arrays/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Fundamentals/5. Lists/Excercise/7. Append Arrays/src/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Hangman" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -54,19 +54,19 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Personal\Sofuni Projects\Java Fundamentals\3. Arrays" />
+      <recent name="C:\Personal\Sofuni Projects\Arrays Excercise" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Personal\laptop\Sofuni Projects\Java Fundamentals\9. Regular Expressions" />
       <recent name="C:\Personal\laptop\Sofuni Projects\Java Fundamentals\8. Text Processing" />
       <recent name="C:\Personal\laptop\Sofuni Projects\Java Fundamentals\7. Maps, Lambda and Stream API" />
       <recent name="C:\Personal\laptop\Sofuni Projects\Java Fundamentals\6. Objects and Classes" />
       <recent name="C:\Personal\Sofuni Projects\Java Fundamentals\1. Basic Syntax, Conditional Statements and Loops\Lab\1. Student Information" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Personal\Sofuni Projects\Java Fundamentals\3. Arrays" />
-      <recent name="C:\Personal\Sofuni Projects\Arrays Excercise" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -81,7 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (6)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="5. Bomb Numbers" />
@@ -96,9 +96,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="4. List Operations" />
+      <module name="1. Randomize Words" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -112,7 +112,7 @@
     </configuration>
     <configuration name="Main (6)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="3. House Party" />
+      <module name="3. Big Factorial" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -128,19 +128,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (6)" />
-      <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.Main (6)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (6)" />
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (6)" />
       </list>
     </recent_temporary>
   </component>
@@ -183,6 +183,7 @@
       <workItem from="1582115184330" duration="5109000" />
       <workItem from="1582559118092" duration="32481000" />
       <workItem from="1583329215917" duration="2782000" />
+      <workItem from="1583424546034" duration="4095000" />
     </task>
     <servers />
   </component>

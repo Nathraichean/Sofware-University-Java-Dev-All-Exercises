@@ -23,59 +23,74 @@ public class Main {
 
         boolean end = false;
 
-        while (!end){
 
+        for (int i = 0; i < numberOfSongs; i++) {
             String[] input = scanner.nextLine().split("_");
 
-            String type = input[0];
-            String name = input[1];
-            String length = input[2];
-            Song currentSong = new Song(type,name,length);
-
+            if (input.length == 3){
+                String type = input[0];
+                String name = input[1];
+                String length = input[2];
+                Song currentSong = new Song(type,name,length);
+                songsList.add(currentSong);
+            }
         }
 
         String command = scanner.nextLine();
 
         switch (command){
-
-            case "listenLater" :
-
-                for (Song song :
-                        songsList) {
-                    if (song.getType().equals("listenLater")){
-                        System.out.println(song.getSongName());
-                    };
-                }
-
-                break;
-            case "favourite":
-                for (Song song :
-                        songsList) {
-                    if (song.getType().equals("favourite")){
-                        System.out.println(song.getSongName());
-                    };
-                }
-                break;
             case "all":
                 for (Song song :
                         songsList) {
-
                         System.out.println(song.getSongName());
-
                 }
-
                 break;
-            case "time":
+            default:
                 for (Song song :
                         songsList) {
-
-                    System.out.println(song.getMinutesLength());
-
+                    if (song.getType().equals(command)){
+                        System.out.println(song.getSongName());
+                    };
                 }
-
                 break;
-
         }
 
     }
+
+    public static class Song {
+        private String type;
+        private String songName;
+        private String timeLength;
+
+        public Song(){};
+        public Song(String type, String songName, String timeLength){
+            this.type = type;
+            this.songName = songName;
+            this.timeLength = timeLength;
+        }
+
+        public String getType(){
+            return this.type;
+        }
+        public void setType(String type){
+            this.type = type;
+        }
+
+        public String getSongName() {
+            return songName;
+        }
+        public void setSongName(String songName) {
+            this.songName = songName;
+        }
+
+        public String getMinutesLength() {
+            return timeLength;
+        }
+        public void setMinutesLength(String timeLength) {
+            this.timeLength = timeLength;
+        }
+    }
+
 }
+
+

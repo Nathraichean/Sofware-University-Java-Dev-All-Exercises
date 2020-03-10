@@ -1,3 +1,5 @@
+import java.util.List;
+
 public class Student {
     private String firstName;
     private String lastName;
@@ -40,5 +42,14 @@ public class Student {
     }
     public void setHomeTown(String homeTown) {
         this.homeTown = homeTown;
+    }
+
+    public static boolean isStudentExisting(List<Student> students, String firstName, String lastName){
+        for (Student student:students) {
+            if (student.getFirstName().equals(firstName) && student.getLastName().equals(lastName)){
+                return true;
+            }
+        }
+        return false;
     }
 }

@@ -37,13 +37,22 @@ public class Main {
 
             }
             else if (input.length == 4){
-                Student student = new Student(input[0],input[1],Integer.parseInt(input[2]),input[3]);
-                studentsList.add(student);
+
+                if (Student.isStudentExisting(studentsList,input[0],input[1])){
+                    for (Student student:studentsList) {
+                        if (student.getFirstName().equals(input[0]) && student.getLastName().equals(input[1])){
+                            student.setFirstName(input[0]);
+                            student.setLastName(input[1]);
+                            student.setAge(Integer.parseInt(input[2]));
+                            student.setHomeTown(input[3]);
+                        }
+                    }
+                }
+                else {
+                    Student student = new Student(input[0],input[1],Integer.parseInt(input[2]),input[3]);
+                    studentsList.add(student);
+                }
             }
-
-
         }
-
     }
-
 }

@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="92252c80-1cde-48bf-85d0-5d840c32f43b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Fundamentals/6. Objects and Classes/Excercise/3. Opinion Poll/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Fundamentals/6. Objects and Classes/Excercise/3. Opinion Poll/src/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -183,7 +182,7 @@
       <workItem from="1582115184330" duration="5109000" />
       <workItem from="1582559118092" duration="32481000" />
       <workItem from="1583329215917" duration="2782000" />
-      <workItem from="1583424546034" duration="13447000" />
+      <workItem from="1583424546034" duration="15770000" />
     </task>
     <servers />
   </component>

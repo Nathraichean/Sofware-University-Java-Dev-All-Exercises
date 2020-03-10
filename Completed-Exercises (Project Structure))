@@ -1,0 +1,153 @@
+--------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
+1. Basic Syntax, Conditional Statements and Loops
+    1.1. Lab
+        1.1.1 Sudent Information
+        1.1.2 Passed
+        1.1.3 Passed or Failed
+        1.1.4 Back in 30 minutes
+        1.1.5 Month Printer
+        1.1.6 Foreign Languages
+        1.1.7 Theatre Promotions
+        1.1.8 Divisable by 3
+        1.1.9 Sum of Odd Numbers
+        1.1.10 Multiplication Table
+        1.1.11 Multiplication Table 2.0
+        1.1.12 Even Numbers
+        1.1.13 Refactor Sum of Odd Numbers
+        ======
+        
+    1.2. Exercise
+        1.2.1. Ages
+        1.2.2. Division
+        1.2.3. Vacation
+        1.2.4. Print and Sum
+        1.2.5. Login
+        1.2.6. Strong Number
+        1.2.7. Vending Machine
+        1.2.8. Triangle of Numbers
+        
+--------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
+2. Data Types and Variables
+    2.1. Lab
+        2.1.1. Integer and Real Numbers
+        2.1.2. Pounds to Dollars
+        2.1.3. Exact Sum of Real Numbers
+        2.1.4. Town Info
+        2.1.5. Concat Names
+        2.1.6. Chars to String
+        2.1.7. Reversed Chars
+        2.1.8. Lower to Upper
+        2.1.9. Centuries to Minutes
+        2.1.10. Special Numbers
+        2.1.11. Refactor Volume of Pyramid
+        2.1.12. Refactor Special Numbers
+        ======
+        
+    2.2. Exercise
+        2.2.1. Integer Operations
+        2.2.1. Sum Digits
+        2.2.1. Elevator
+        2.2.1. Sum of Chars
+        2.2.1. Print Part of the ASCII Table
+        2.2.1. Triples of Latin Letters
+        2.2.1. Water Overflow
+        2.2.1. Beer Kegs
+        
+--------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
+3. Arrays
+    3.1. Lab
+        3.1.1. Day of Week
+        3.1.2. Print Numbers in Reverse Order
+        3.1.3. Sum of Even Numbers
+        3.1.4. Reverse an Array of Strings
+        3.1.5. Even and Odd Subtraction
+        3.1.6. Equal Arrays
+        3.1.7. Condense Array to Number
+        ======
+        
+    3.2. Exercise
+        3.2.1. Train
+        3.2.2. Common Elements
+        3.2.3. Zig-Zag Arrays
+        3.2.4. Top Integers
+        3.2.5. Equal Sums
+        3.2.6. Max Sequence of Equal Elements
+        3.2.7. Magic Sum
+       
+--------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
+4. Methods
+    4.1. Lab
+        4.1.1. Sign of Integer
+        4.1.2. Grades
+        4.1.3. Printing Triangle
+        4.1.4. Caluclation
+        4.1.5. Orders
+        4.1.6. Calculate Rectangle Area
+        4.1.7. Repeat String
+        4.1.8. Math Power
+        4.1.9. Greather of Two Values
+        4.1.10. Multiply Evens by Odds
+        4.1.11. Math Operations
+        =====
+        
+    4.2. Exercise
+        4.2.1. Smalles of Three Numbers
+        4.2.2. Vowels Count
+        4.2.3. Characters in Range
+        4.2.4. Password Validator
+        4.2.5. Add and Subtract
+        4.2.6. Middle Characters
+        4.2.7. NxN Matrix
+        4.2.8. Factorial Division
+        4.2.9. Palindrome Integers
+        4.2.10. Top Number
+        
+--------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
+5. Lists
+    5.1. Lab
+        5.1.1. Sum Adjacent Equal Numbers
+        5.1.2. Gauss' Trick
+        5.1.3. Merging Lists
+        5.1.4. List Manipulation Basics
+        5.1.5. List Manipulation Advanced
+        5.1.6. List of Products
+        5.1.7. Remove Negatives and Reverse
+        ======
+        
+    5.2. Exercise
+        5.2.1. Train
+        5.2.2. Change List
+        5.2.3. House Party
+        5.2.4. List Operations
+        5.2.5. Bomb Numbers
+        5.2.6. Cards Game
+        5.2.7. Append Arrays
+        
+--------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
+6. Objects and Classes
+    6.1. Lab
+        6.1.1. Randomize Words
+        6.1.1. Sum Big Numbers
+        6.1.1. Big Factorial
+        6.1.1. Songs
+        6.1.1. Students
+        6.1.1. Students 2.0
+        ======
+        
+    6.2. Exercise
+        6.2.1. Advertisement Message
+        6.2.1. Articles
+        6.2.1. Opinion Poll
+        6.2.1. Articles 2.0
+        6.2.1. Students
+        6.2.1. 
+        6.2.1. 
+        
+--------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------

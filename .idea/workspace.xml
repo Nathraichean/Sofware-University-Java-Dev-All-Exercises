@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92252c80-1cde-48bf-85d0-5d840c32f43b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Fundamentals/7. Maps, Lambda and Stream API/Lab/1. Count Real Numbers/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Fundamentals/7. Maps, Lambda and Stream API/Lab/1. Count Real Numbers/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Fundamentals/7. Maps, Lambda and Stream API/Lab/2. Word Synonyms/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Fundamentals/7. Maps, Lambda and Stream API/Lab/2. Word Synonyms/src/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +82,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="6. Vehicle Catalogue" />
@@ -103,16 +104,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="7. Order by Age" />
+      <module name="2. Word Synonyms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (6)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="4. Articles 2.0" />
+      <module name="7. Order by Age" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -128,19 +129,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (6)" />
       <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (6)" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +184,7 @@
       <workItem from="1582115184330" duration="5109000" />
       <workItem from="1582559118092" duration="32481000" />
       <workItem from="1583329215917" duration="2782000" />
-      <workItem from="1583424546034" duration="24518000" />
+      <workItem from="1583424546034" duration="25932000" />
     </task>
     <servers />
   </component>

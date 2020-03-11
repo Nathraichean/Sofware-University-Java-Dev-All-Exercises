@@ -13,7 +13,6 @@
       11. Multiplication Table 2.0
       12. Even Numbers
       13. Refactor Sum of Odd Numbers
------
    + ## Exercise
         1. Ages
         2. Division
@@ -23,8 +22,7 @@
         6. Strong Number
         7. Vending Machine
         8. Triangle of Numbers
-       
-
+      
 ----
 
 # 2. Data Types and Variables
@@ -40,8 +38,7 @@
         9. Centuries to Minutes
         10. Special Numbers
         11. Refactor Volume of Pyramid
-        12. Refactor Special Numbers
-----        
+        12. Refactor Special Numbers        
    + ## Exercise
         1. Integer Operations
         1. Sum Digits
@@ -63,8 +60,6 @@
         5. Even and Odd Subtraction
         6. Equal Arrays
         7. Condense Array to Number
-----
-        
    + ## Exercise
         1. Train
         2. Common Elements
@@ -89,7 +84,6 @@
         9. Greather of Two Values
         10. Multiply Evens by Odds
         11. Math Operations
- =====
    + ## Exercise
         1. Smalles of Three Numbers
         2. Vowels Count
@@ -113,7 +107,6 @@
         5. List Manipulation Advanced
         6. List of Products
         7. Remove Negatives and Reverse
-======        
    + ## Exercise
         1. Train
         2. Change List
@@ -133,7 +126,6 @@
         4. Songs
         5. Students
         6. Students 2.0
-====        
    + ## Exercise
         1. Advertisement Message
         2. Articles

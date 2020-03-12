@@ -1,13 +1,13 @@
 # 1. Basic Syntax, Conditional Statements and Loops
   + ## Lab
-      1. Sudent Information
+      1. Student Information
       2. Passed
       3. Passed or Failed
       4. Back in 30 minutes
       5. Month Printer
       6. Foreign Languages
       7. Theatre Promotions
-      8. Divisable by 3
+      8. Divisible by 3
       9. Sum of Odd Numbers
       10. Multiplication Table
       11. Multiplication Table 2.0
@@ -76,16 +76,16 @@
         1. Sign of Integer
         2. Grades
         3. Printing Triangle
-        4. Caluclation
+        4. Calculation
         5. Orders
         6. Calculate Rectangle Area
         7. Repeat String
         8. Math Power
-        9. Greather of Two Values
+        9. Greater of Two Values
         10. Multiply Evens by Odds
         11. Math Operations
    + ## Exercise
-        1. Smalles of Three Numbers
+        1. Smallest of Three Numbers
         2. Vowels Count
         3. Characters in Range
         4. Password Validator

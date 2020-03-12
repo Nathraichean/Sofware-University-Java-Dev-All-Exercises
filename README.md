@@ -4,7 +4,7 @@ This is a WORK-IN-PROGRESS project.
 
 This repository has the purpose of storing all of my Sofware University exercises.
 
-A completed exercise is always 100/100 in the SoftUni Judge system.
+A completed exercise is always 100/100 in the [SoftUni Judge](https://judge.softuni.bg/) system.
 
 Some time has passed after completing my courses, and during them, i did not do *every* exercise because there were a lot of them and thus took a lot of time.
 My current mission is to go through all excercises with the ideas of 

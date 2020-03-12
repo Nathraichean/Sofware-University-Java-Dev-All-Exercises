@@ -134,4 +134,24 @@
         5. Students
         6. Vehicle Catalogue
         7. Order by Age 
+        
+----
+
+# 7. Maps, Lambda and Streams
+   + ## Lab
+        1. Count Real Numbers
+        2. Word Synonyms
+        3. Odd Occurrances //TODO
+        4. Word Filter //TODO
+        5. Largest 3 Numbers //TODO
+   + ## Exercise
+        1. Count Chars in a String //TODO
+        2. A Miner Task //TODO
+        3. Legendary Farming //TODO
+        4. Orders //TODO
+        5. SoftUni Parking //TODO
+        6. Courses //TODO
+        7. Student Academy //TODO
+        8. Company Users //TODO
+        
 ----

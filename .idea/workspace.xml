@@ -7,8 +7,6 @@
     <list default="true" id="92252c80-1cde-48bf-85d0-5d840c32f43b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Completed-Exercises (Project Structure).md" beforeDir="false" afterPath="$PROJECT_DIR$/Completed-Exercises (Project Structure).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Fundamentals/7. Maps, Lambda and Stream API/Lab/3. Odd Occurrances/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Fundamentals/7. Maps, Lambda and Stream API/Lab/3. Odd Occurrances/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -185,7 +183,7 @@
       <workItem from="1582115184330" duration="5109000" />
       <workItem from="1582559118092" duration="32481000" />
       <workItem from="1583329215917" duration="2782000" />
-      <workItem from="1583424546034" duration="28634000" />
+      <workItem from="1583424546034" duration="29821000" />
     </task>
     <servers />
   </component>

@@ -141,7 +141,7 @@
    + ## Lab
         1. Count Real Numbers
         2. Word Synonyms
-        3. Odd Occurrances //TODO
+        3. Odd Occurrances
         4. Word Filter //TODO
         5. Largest 3 Numbers //TODO
    + ## Exercise
